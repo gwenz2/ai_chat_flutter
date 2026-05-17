@@ -5,7 +5,7 @@ A visual CRUD dashboard where you can view, edit, or delete the facts that the A
 
 ## Screenshots
 
-![1](ss\1.png)
+![1](ss/1.png)
 
-![2](ss\2.png)
+![2](ss/2.png)
 
